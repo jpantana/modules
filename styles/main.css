@@ -1,3 +1,7 @@
 body {
     background-color: grey;
 }
+
+.book-cover {
+    height: 200px;
+}
