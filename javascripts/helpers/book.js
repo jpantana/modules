@@ -1,7 +1,7 @@
 const bookInfo = {
     price: 24.99,
     title: 'The Meat Book',
-    image: './assets/615m1M8LKPL.jpg',
+    image: './assets/book.jpg',
 };
 
 const getBook = () => {
